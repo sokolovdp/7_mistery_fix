@@ -1,10 +1,11 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Function get_roots(a, b, c) return tuple with roots of quadratic equation,
+if there is no valid roots function returns: None, None.
 
 # How to Use
 
-[TODO]
+root1, root2 = get_roots(a, b, c)
 
 # How to Launch Tests
 
