@@ -9,8 +9,16 @@ root1, root2 = get_roots(a, b, c)
 
 # How to Launch Tests
 
+in case of success output is the following:
+
 ```bash
 python tests.py
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
+
 ```
 
 # Project Goals
